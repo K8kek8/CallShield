@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Versión de un solo color para los íconos con tema de Android 13+ -->
+    <path
+        android:fillColor="#000000"
+        android:fillType="evenOdd"
+        android:pathData="M54,24 L80,34 L80,54 C80,69 68,79 54,85 C40,79 28,69 28,54 L28,34 Z M42.93,51.19 C44.4,54.2 46.8,56.7 49.8,58.2 L52,56 C52.3,55.7 52.7,55.6 53.1,55.7 C54.4,56.1 55.7,56.3 57.1,56.3 C57.7,56.3 58.2,56.8 58.2,57.4 L58.2,60.8 C58.2,61.4 57.7,61.9 57.1,61.9 C46.8,61.9 38.5,53.6 38.5,43.3 C38.5,42.7 39,42.2 39.6,42.2 L43.3,42.2 C43.9,42.2 44.4,42.7 44.4,43.3 C44.4,44.7 44.6,46 45,47.2 C45.1,47.6 45,48 44.7,48.3 Z" />
+</vector>
